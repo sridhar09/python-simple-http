@@ -1,1 +1,4 @@
+
 This is a new line, which should be commited
+
+This is a big feature
