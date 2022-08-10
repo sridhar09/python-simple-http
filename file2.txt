@@ -1,1 +1,1 @@
-This is a new line, that should be commited
+This is a new line
